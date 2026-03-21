@@ -55,7 +55,7 @@ const Achievements = () => {
             <div className="glass-card p-6 flex flex-col gap-4">
               <div className="flex justify-between items-center border-b border-border pb-4">
                 <span className="text-gray-300 font-medium">GitHub Contributions</span>
-                <span className="text-2xl font-bold text-green-400 font-mono">30+</span>
+                <span className="text-2xl font-bold text-green-400 font-mono">100+</span>
               </div>
               <div className="flex justify-between items-center border-b border-border pb-4">
                 <span className="text-gray-300 font-medium">Projects Built</span>
