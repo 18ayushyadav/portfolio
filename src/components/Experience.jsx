@@ -2,25 +2,15 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const experiences = [
+  
   {
-    role: 'Software Engineering Intern',
-    company: 'Tech Solutions Inc.',
-    duration: 'May 2025 - Aug 2025',
+    role: 'Python Developer Intern',
+    company: 'YBI Foundation',
+    duration: 'june 2025 - july 2025',
     description: [
-      'Developed responsive user interfaces using React and Tailwind CSS, improving user engagement by 25%.',
-      'Collaborated with senior engineers to implement RESTful APIs using Node.js and Express.',
-      'Participated in daily stand-ups and agile development cycles, delivering features ahead of schedule.',
-    ],
-  },
-  {
-    role: 'Full Stack Web Developer Intern',
-    company: 'Startup Hub',
-    duration: 'Jan 2025 - Apr 2025',
-    description: [
-      'Built and deployed a full-stack e-commerce prototype using the MERN stack.',
+      'Built cloud monitering system prototype using the MERN stack.',
       'Optimized database queries in MongoDB, reducing page load times by 15%.',
-      'Integrated Stripe payment gateway for secure transactions.',
-    ],
+      ],
   },
   {
     role: 'Open Source Contributor',
