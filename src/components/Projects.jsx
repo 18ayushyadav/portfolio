@@ -4,13 +4,13 @@ import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 const projects = [
   {
-    title: 'Live Train Tracker',
-    description: 'A full-stack Indian Railways train tracking application providing real-time status and offline location capabilities via cell tower data.',
-    problemSolved: 'Delivered accurate real-time updates using WebSockets and ensured offline accessibility for users with poor network connectivity.',
+    title: 'MediConnect – Smart Healthcare Connectivity & Online Appointment Management System',
+    description: 'MediConnect is a full-stack healthcare platform that connects patients, doctors, and hospitals with online appointment and healthcare management.',
+    problemSolved: 'It solves the hassle of manual appointment booking and scattered healthcare information by providing a centralized digital platform.',
     image: 'bg-gradient-to-br from-blue-900 to-indigo-600',
-    tech: ['React', 'Node.js', 'Flutter', 'Firebase', 'WebSockets'],
-    github: 'https://github.com',
-    demo: 'https://demo.com',
+    tech: ['React', 'Node.js', 'HTML', 'CSS', 'MongoDB','JWT Authentication','Rest API'],
+    github: 'https://github.com/18ayushyadav/SmartHealthCare',
+    demo: 'https://mediconnect-psi.vercel.app/',
     featured: true
   },
   {
