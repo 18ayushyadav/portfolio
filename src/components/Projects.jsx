@@ -14,13 +14,13 @@ const projects = [
     featured: true
   },
   {
-    title: 'AI Chatbot Assistant',
-    description: 'Intelligent conversational agent capable of understanding context and providing helpful responses based on customizable knowledge bases.',
+    title: 'Navrivo- Ecommerce Website',
+    description: 'Its a ecommerce website capable of selling women cloths.',
     problemSolved: 'Automated 60% of common customer queries and implemented natural language processing for better intent recognition.',
     image: 'bg-gradient-to-bl from-purple-800 to-primary',
     tech: ['Python', 'TensorFlow', 'NLP', 'Flask', 'React'],
-    github: 'https://github.com',
-    demo: 'https://demo.com',
+    github: null,
+    demo: 'https://dlc-store.vercel.app/',
     featured: true
   },
   {
