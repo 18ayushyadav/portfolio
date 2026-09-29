@@ -20,7 +20,7 @@ const projects = [
     image: 'bg-gradient-to-bl from-purple-800 to-primary',
     tech: ['Python', 'TensorFlow', 'NLP', 'Flask', 'React'],
     github: null,
-    demo: 'https://dlc-store.vercel.app/',
+    demo: 'https://navrivo.in',
     featured: true
   },
   {
