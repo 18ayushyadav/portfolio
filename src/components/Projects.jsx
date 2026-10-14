@@ -18,7 +18,7 @@ const projects = [
     description: 'Its a ecommerce website capable of selling women cloths.',
     problemSolved: 'Automated 60% of common customer queries and implemented natural language processing for better intent recognition.',
     image: 'bg-gradient-to-bl from-purple-800 to-primary',
-    tech: ['Python', 'TensorFlow', 'NLP', 'Flask', 'React'],
+    tech: ['JavaScript', 'Node.js', 'ts', 'Flask', 'React'],
     github: null,
     demo: 'https://navrivo.in',
     featured: true
